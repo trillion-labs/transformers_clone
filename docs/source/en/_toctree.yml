@@ -689,6 +689,8 @@
         title: TAPEX
       - local: model_doc/transfo-xl
         title: Transformer XL
+      - local: model_doc/tri
+        title: Tri
       - local: model_doc/ul2
         title: UL2
       - local: model_doc/umt5
